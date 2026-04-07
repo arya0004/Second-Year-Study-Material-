@@ -1,4 +1,4 @@
-# 📚 TY AIDS – Second Year Study Material (VIT Pune)
+# TY AIDS – Second Year Study Material (VIT Pune)
 This repository contains a collection of study materials for **Second Year Artificial Intelligence & Data Science (AIDS)** at **VIT Pune**.
 ---
 
